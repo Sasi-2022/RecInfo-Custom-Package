@@ -1,13 +1,19 @@
 {
-  "name": "com.recinfo.custompackage",
+  "name": "com.recinfo.custompackage1",
   "version": "1.0.0",
   "displayName": "SampleCustomPackage",
-  "unity": "2021.3.8f1",
+  "unity": "2021.3",
   "description": "RecInfo Sample Package",
+  "dependencies": {
 
-  "author": "RecInfo",
+  },
+
+  "author":
+ {
+    "name": "RecInfo",
    "email": "recinfo@gmail.com",
    "url": "https://www.recinfotech.com/"
+ }
   
 }
 
