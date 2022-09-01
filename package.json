@@ -13,9 +13,25 @@
     "name": "RecInfo",
    "email": "recinfo@gmail.com",
    "url": "https://www.recinfotech.com/"
- }
+ },
+
+   "samples":
+    [
+      {
+          "displayName": "Texture",
+          "description": "Contains sample texture for the High Definition render pipeline",
+          "path": "Samples~/Samples1"
+      },
+      
+      {
+      
+          "displayName": "Material",
+          "description": "Contains sample material for the Universal render pipeline",
+          "path": "Samples~/Samples1"
+      }
+    ]
+
   
 }
-
 
       
