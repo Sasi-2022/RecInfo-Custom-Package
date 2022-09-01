@@ -1,27 +1,27 @@
 {
-  "name": "com.recinfo.custompackage1",
-  "version": "1.0.0",
-  "displayName": "SampleCustomPackage",
-  "unity": "2021.3",
-  "description": "RecInfo Sample Package",
-  "dependencies": {
+    "name": "com.recinfo.custompackage1",
+    "version": "1.0.0",
+    "displayName": "SampleCustomPackage",
+    "unity": "2021.3",
+    "description": "RecInfo Sample Package",
+    "dependencies": {
 
-  },
+    },
 
-  "author":
- {
+    "author":
+    {
     "name": "RecInfo",
-   "email": "recinfo@gmail.com",
-   "url": "https://www.recinfotech.com/"
- },
+    "email": "recinfo@gmail.com",
+    "url": "https://www.recinfotech.com/"
+    },
 
-   "samples":
+    "samples":
     [
-      {
-          "displayName": "Texture",
-          "description": "Contains sample texture for the High Definition render pipeline",
-          "path": "Samples~/Samples1"
-      }      
+        {
+            "displayName": "Texture",
+            "description": "Contains sample texture for the High Definition render pipeline",
+            "path": "samples~/MakeOverAssets"
+        }      
      
     ]
 
