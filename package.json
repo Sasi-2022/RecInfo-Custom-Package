@@ -18,7 +18,7 @@
     "samples":
     [
         {
-            "displayName": "Texture",
+            "displayName": "Test",
             "description": "Contains sample texture for the High Definition render pipeline",
             "path": "Samples~/MakeOverAssets"
         }      
