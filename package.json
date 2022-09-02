@@ -5,8 +5,10 @@
     "unity": "2021.3",
     "description": "RecInfo Sample Package",
     "dependencies": {
-        
-      "com.mycompany.custompackage": "git+https://github.com/PradeepHGK/MakeOverPrototype.git"
+       "com.unity.properties": "2.1.0-exp.1",
+    "com.unity.serialization": "2.1.0-exp.1",
+    "com.unity.modules.uielements": "1.0.0",
+    "com.unity.test-framework.performance": "2.8.0-preview"
     },
     
     
