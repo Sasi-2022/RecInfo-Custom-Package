@@ -6,7 +6,7 @@
     "description": "RecInfo Sample Package",
     "dependencies": {
         
-      "com.mycompany.custompackage": "git+https://github.com/Sasi-2022/RecInfo-Custom-Package.git#dev"
+      "com.mycompany.custompackage": "1.0.1"
     },
     
     
