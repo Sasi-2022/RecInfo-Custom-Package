@@ -31,7 +31,7 @@
           {
             "displayName": "FPs Controller",
             "description": "Contains sample texture for the High Definition render pipeline",
-            "path": "Samples~/FPs Assets"
+            "path": "Samples~/Fps controller"
         }    
      
     ]
