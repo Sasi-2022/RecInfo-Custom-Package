@@ -1,5 +1,5 @@
 {
-    "name": "com.recinfo.custompackage1",
+    "name": "com.recinfo.custompackage",
     "version": "1.0.0",
     "displayName": "SampleCustomPackage",
     "unity": "2021.3",
