@@ -6,7 +6,7 @@
     "description": "RecInfo Sample Package",
     "dependencies": {
         
-      "com.mycompany.custompackage": "1.0.1"
+      "com.mycompany.custompackage": "git+https://github.com/PradeepHGK/MakeOverPrototype.git"
     },
     
     
