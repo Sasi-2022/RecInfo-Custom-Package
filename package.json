@@ -18,10 +18,15 @@
     "samples":
     [
         {
+            "displayName": "Sene",
+            "description": "Contains sample texture for the High Definition render pipeline",
+            "path": "Samples~/Scenes"
+        },
+                {
             "displayName": "Test",
             "description": "Contains sample texture for the High Definition render pipeline",
-            "path": "Samples~"
-        }      
+            "path": "Samples~/MakeOverAssets"
+        }    
      
     ]
 
