@@ -5,7 +5,27 @@
     "unity": "2021.3",
     "description": "RecInfo Sample Package",
     "dependencies": {
+        "@yarnpkg/lockfile": "^1.1.0",
+        "chalk": "^5.0.0",
+        "node-exceptions": "^4.0.1",
+        "package-json-validator": "0.6.3",
+        "semver": "^7.3.5",
+        "semver-intersect": "^1.4.0"
 
+    },
+    
+    "devDependencies": {
+        "@microsoft/api-documenter": "^7.13.5",
+        "@microsoft/api-extractor": "^7.15.0",
+        "@types/node": "^17.0.8",
+        "@types/semver": "^7.3.5",
+        "@types/yarnpkg__lockfile": "^1.1.4",
+        "ava": "^4.1.0",
+        "c8": "^7.7.1",
+        "changelog-updater": "^2.0.2",
+        "cspell": "^5.3.12",
+        "del-cli": "^4.0.0",
+        "typescript": "^4.2.4"
     },
 
     "author":
