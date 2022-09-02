@@ -6,7 +6,10 @@
     "description": "RecInfo Sample Package",
     "dependencies": {
         
-      "com.cleversolutions.ads.unity": "https://github.com/cleveradssolutions/CAS-Unity.git#2.8.4",
+     "com.unity.timeline": "1.6.3",
+    "com.unity.recorder": "2.5.5",
+    "com.unity.settings-manager": "1.0.3",
+    "com.unity.ugui": "1.0.0"
     },
     
     
