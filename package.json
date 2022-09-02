@@ -6,10 +6,7 @@
     "description": "RecInfo Sample Package",
     "dependencies": {
         
-     "com.unity.timeline": "1.6.3",
-    "com.unity.recorder": "2.5.5",
-    "com.unity.settings-manager": "1.0.3",
-    "com.unity.ugui": "1.0.0"
+      "com.mycompany.custompackage": "git+https://github.com/Sasi-2022/RecInfo-Custom-Package.git#dev"
     },
     
     
