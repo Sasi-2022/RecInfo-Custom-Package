@@ -45,6 +45,12 @@
             "displayName": "TPS Controller",
             "description": "Contains sample texture for the High Definition render pipeline",
             "path": "Samples~/TPS Controller"
+        },
+        
+        {
+            "displayName": "FPS-1 controller",
+            "description": "Contains sample texture for the High Definition render pipeline",
+            "path": "Samples~/FPS-1 controller"
         }    
      
     ]
